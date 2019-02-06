@@ -1,0 +1,2 @@
+Given the size of our database (~470GB), it is not possible to share it online.
+Please contact us at: doubleblind@doubleblind.com and we will give you temporary access to our server for downloading the database.
